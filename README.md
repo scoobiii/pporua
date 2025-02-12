@@ -233,201 +233,169 @@ Zeh Sobrinho
 João Batista dos Santos
 
 
----
+Estrutura Organizacional do Partido Pop Rua (PPRUA)
 
-## Organograma e Estrutura do PPRUA
-
-O Partido Pop Rua (PPRUA) adotará uma política de remuneração digna para todos os cargos, garantindo autonomia financeira e inclusão social. A doação do salário será opcional, respeitando a decisão individual de cada membro.
+O Partido Pop Rua (PPRUA) mantém uma estrutura horizontal e participativa, garantindo inclusão e remuneração justa. Cada cargo recebe um nome que reflete sua missão, inspirado na cultura de rua, resistência social e luta por direitos.
 
 
 ---
 
-### 1. Estrutura e Responsabilidades
+1. Assembleia Popular Rua (APRUA) – Poder Máximo do Partido
 
-1.1 Assembleia Popular Rua (APRUA) – Instância Máxima
-
-Responsabilidade: Definir as diretrizes do partido por meio da participação popular direta.
-
-Formação: Membros do partido, prioritariamente ex-população de rua e lideranças comunitárias.
-
-Experiência: Participação em lutas sociais, experiência de vida nas ruas e engajamento político.
-
-Remuneração: R$ 3.500,00 para garantir participação ativa e transporte.
-
+Nome do Cargo: Voz da Rua
+Nome Completo: João Liberdade dos Santos
+Descrição: Todos os membros ativos participam e têm direito a voz e voto nas decisões estratégicas.
+Remuneração: R$ 3.500,00/mês
 
 
 ---
 
-### 1.2 Secretariado Geral
+2. Secretariado Geral – Coordenação Nacional
 
-Responsabilidade: Coordenar a execução das decisões da APRUA e articular os núcleos do partido.
-
-Formação: Administração, Gestão Pública, Ciências Sociais ou experiência em movimentos sociais.
-
-Experiência: Gestão organizacional, articulação política e coordenação de equipes.
-
-Remuneração: R$ 12.000,00
-
+Nome do Cargo: Orquestrador Popular
+Nome Completo: Mariana Esperança Silva
+Descrição: Coordena a execução das decisões da APRUA e articula as comissões do partido.
+Remuneração: R$ 15.000,00/mês
 
 
 ---
 
-### 1.3 Conselho de Representantes de Rua (CRRUA)
+3. Conselho de Representantes de Rua (CRRUA) – Representantes Populares
 
-Responsabilidade: Representar a população de rua e as periferias dentro do partido e na sociedade.
-
-Formação: Qualquer nível educacional, priorizando lideranças comunitárias e experiência de rua.
-
-Experiência: Atuação em coletivos, associações e movimentos sociais.
-
-Remuneração: R$ 5.000,00
-
+Nome do Cargo: Embaixador da Quebrada
+Nome Completo: Carlos Resistência Souza
+Descrição: Representantes eleitos pela população em situação de rua e periferias para levar suas pautas ao partido.
+Remuneração: R$ 7.500,00/mês
 
 
 ---
 
-### 1.4 Comissões de Trabalho
+Áreas de Gestão e Comissões
 
-1.4.1 Administração e Finanças
+4. Administração e Finanças
 
-Responsabilidade: Gestão dos recursos financeiros do partido, prestação de contas e captação de fundos.
-
-Formação: Contabilidade, Economia, Administração ou experiência em economia solidária.
-
-Experiência: Gestão financeira, transparência e arrecadação de fundos.
-
-Remuneração: R$ 10.000,00
-
-
-1.4.2 Recursos Humanos e Formação Popular
-
-Responsabilidade: Formação e mobilização de novos militantes, acolhimento de membros vulneráveis.
-
-Formação: Psicologia, Pedagogia, Assistência Social ou experiência em trabalho comunitário.
-
-Experiência: Formação de base, acompanhamento social, gestão de pessoas.
-
-Remuneração: R$ 8.500,00
-
-
-1.4.3 Marketing Digital e Comunicação Popular
-
-Responsabilidade: Criar campanhas, gerenciar redes sociais, comunicação com a base.
-
-Formação: Comunicação, Jornalismo, Marketing ou experiência em mídia comunitária.
-
-Experiência: Produção de conteúdo acessível e popular, estratégias digitais.
-
-Remuneração: R$ 9.000,00
-
-
-1.4.4 Fiscalização e Controle Social
-
-Responsabilidade: Monitoramento dos recursos, garantindo transparência e ética no partido.
-
-Formação: Direito, Administração Pública ou experiência em controle social.
-
-Experiência: Auditoria, monitoramento de políticas públicas e combate à corrupção.
-
-Remuneração: R$ 11.000,00
-
-
-1.4.5 Assessoria Jurídica e Direitos Humanos
-
-Responsabilidade: Defesa legal dos membros e monitoramento de violações de direitos humanos.
-
-Formação: Direito, Ciências Sociais ou experiência em advocacia popular.
-
-Experiência: Direitos Humanos, causas sociais e assessoria jurídica comunitária.
-
-Remuneração: R$ 12.500,00
-
-
-1.4.6 Relações Governamentais e Institucionais
-
-Responsabilidade: Articulação com governos, parlamentos e movimentos sociais.
-
-Formação: Ciências Políticas, Gestão Pública ou experiência em ativismo político.
-
-Experiência: Negociação, construção de políticas públicas e alianças estratégicas.
-
-Remuneração: R$ 10.500,00
-
-
-1.4.7 Parcerias e Internacionalização
-
-Responsabilidade: Construção de alianças com ONGs, coletivos e redes internacionais.
-
-Formação: Relações Internacionais, Ciências Sociais ou experiência em cooperação global.
-
-Experiência: Captação de recursos, projetos internacionais e cooperação humanitária.
-
-Remuneração: R$ 10.000,00
-
-
-1.4.8 Engenharia Social e Infraestrutura
-
-Responsabilidade: Desenvolvimento de moradias populares, sistemas autônomos de energia e saneamento.
-
-Formação: Engenharia, Arquitetura, Urbanismo ou experiência em projetos comunitários.
-
-Experiência: Construção sustentável, urbanismo social e infraestrutura de baixo custo.
-
-Remuneração: R$ 12.000,00
+Nome do Cargo: Guardião do Tesouro Popular
+Nome Completo: Fernanda Justiça Oliveira
+Descrição: Gerencia os recursos financeiros do partido, garantindo transparência.
+Remuneração: R$ 12.000,00/mês
 
 
 ---
 
+5. Recursos Humanos e Formação Popular
 
-2. Organograma do PPRUA
-
-
-        ASSEMBLEIA POPULAR RUA (APRUA) - R$ 3.500,00
-                                         │
-                         ┌─────────────────────────┐
-                         │  SECRETARIADO GERAL - R$ 12.000,00 │
-                         └─────────────────────────┘
-                                         │
-         ┌───────────────────────────────────────────────────┐
-         │  CONSELHO DE REPRESENTANTES DE RUA (CRRUA) - R$ 5.000,00 │
-         └───────────────────────────────────────────────────┘
-                                         │
-         ┌───────────────────────────────────────────────────┐
-         │                   COMISSÕES DE TRABALHO                    │
-         ├───────────────────────────────────────────────────┤
-         │  Administração e Finanças - R$ 10.000,00           │
-         │  Recursos Humanos e Formação - R$ 8.500,00         │
-         │  Marketing Digital - R$ 9.000,00                   │
-         │  Fiscalização e Controle - R$ 11.000,00           │
-         │  Assessoria Jurídica - R$ 12.500,00               │
-         │  Relações Governamentais - R$ 10.500,00           │
-         │  Parcerias e Internacionalização - R$ 10.000,00   │
-         │  Engenharia Social - R$ 12.000,00                 │
-         └───────────────────────────────────────────────────┘
-        
-        ---
-
-### 3. Política de Inclusão – 50% Ex-População de Rua
-
-O PPRUA tem como compromisso que 50% dos cargos sejam ocupados por ex-população de rua, garantindo:
-
-1. Treinamento e formação contínua para reintegração ao mercado de trabalho.
-
-
-2. Mentoria com profissionais experientes para apoiar a adaptação.
-
-
-3. Salários justos e dignos, proporcionando autonomia e inclusão social.
-
-
-4. Política de promoção interna, permitindo crescimento dentro do partido.
-
-
+Nome do Cargo: Semeador de Futuro
+Nome Completo: Ricardo Construção Almeida
+Descrição: Mobiliza e capacita militantes, garantindo apoio a membros vulneráveis.
+Remuneração: R$ 10.000,00/mês
 
 
 ---
 
-Essa estrutura garante que o Partido Pop Rua (PPRUA) seja um movimento autônomo, inclusivo e transformador, criando um modelo político voltado para quem mais precisa.
+6. Marketing Digital e Comunicação Popular
+
+Nome do Cargo: Trompete da Revolução
+Nome Completo: Isabela Voz Ativa Santos
+Descrição: Desenvolve campanhas políticas e sociais, gerindo redes sociais e comunicação comunitária.
+Remuneração: R$ 12.000,00/mês
 
 
+---
+
+7. Fiscalização e Controle Social
+
+Nome do Cargo: Olho do Povo
+Nome Completo: André Transparência Ferreira
+Descrição: Monitora a transparência e o uso de recursos, garantindo fiscalização popular.
+Remuneração: R$ 11.000,00/mês
+
+
+---
+
+8. Assessoria Jurídica e Direitos Humanos
+
+Nome do Cargo: Defensor da Resistência
+Nome Completo: Camila Justiça Xavier
+Descrição: Oferece defesa legal para membros do partido e população de rua.
+Remuneração: R$ 14.000,00/mês
+
+
+---
+
+9. Relações Governamentais e Institucionais
+
+Nome do Cargo: Pontífice das Ruas
+Nome Completo: Gustavo Articulação Mendes
+Descrição: Articula com governos, parlamentares e movimentos sociais.
+Remuneração: R$ 13.500,00/mês
+
+
+---
+
+10. Parcerias e Internacionalização
+
+Nome do Cargo: Embaixador da Esperança
+Nome Completo: Tatiane Global Santos
+Descrição: Estabelece alianças com ONGs, coletivos e redes internacionais.
+Remuneração: R$ 13.000,00/mês
+
+
+---
+
+11. Engenharia Social e Infraestrutura
+
+Nome do Cargo: Construtor de Sonhos
+Nome Completo: Rafael Moradia Lima
+Descrição: Desenvolve soluções de moradia, saneamento e energia para o partido.
+Remuneração: R$ 14.000,00/mês
+
+
+---
+
+## Organograma do PPRUA
+
+                ASSEMBLEIA POPULAR RUA (APRUA) - Voz da Rua (João Liberdade dos Santos) - R$ 3.500,00  
+                                                 │  
+                                 ┌────────────────────────────────┐  
+                                 │  SECRETARIADO GERAL - Orquestrador Popular  │  
+                                 │  (Mariana Esperança Silva) - R$ 15.000,00  │  
+                                 └────────────────────────────────┘  
+                                                 │  
+                 ┌──────────────────────────────────────────────────────────┐  
+                 │  CONSELHO DE REPRESENTANTES DE RUA (CRRUA) - Embaixador da Quebrada │  
+                 │  (Carlos Resistência Souza) - R$ 7.500,00                         │  
+                 └──────────────────────────────────────────────────────────┘  
+                                                 │  
+                 ┌──────────────────────────────────────────────────────────┐  
+                 │                   COMISSÕES DE TRABALHO                             │  
+                 ├──────────────────────────────────────────────────────────┤  
+                
+                 │  Guardião do Tesouro Popular (Administração e Finanças) - Fernanda Justiça Oliveira - R$ 12.000,00 │  
+               
+                 │  Semeador de Futuro (RH e Formação) - Ricardo Construção Almeida - R$ 10.000,00  │  
+                 
+                 │  Trompete da Revolução (Marketing) - Isabela Voz Ativa Santos - R$ 12.000,00 │  
+                
+                 │  Olho do Povo (Fiscalização) - André Transparência Ferreira - R$ 11.000,00 │  
+                
+                 │  Defensor da Resistência (Jurídico) - Camila Justiça Xavier - R$ 14.000,00 │  
+              
+                 │  Pontífice das Ruas (Relações Institucionais) - Gustavo Articulação Mendes - R$ 13.500,00 │  
+               
+                 │  Embaixador da Esperança (Parcerias) - Tatiane Global Santos - R$ 13.000,00 │  
+                
+                 │  Construtor de Sonhos (Infraestrutura) - Rafael Moradia Lima - R$ 14.000,00 │  
+                 └──────────────────────────────────────────────────────────┘
+
+
+---
+
+Critério de Inclusão Social
+
+✔ 50% das vagas são destinadas a ex-população de rua.
+✔ Treinamento contínuo e mentoria para adaptação ao mercado de trabalho.
+✔ Direito à doação voluntária de parte do salário para projetos sociais.
+
+
+---
 
