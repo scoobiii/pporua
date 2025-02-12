@@ -393,16 +393,16 @@ Remuneração: R$ 12.000,00
                                      │
      ┌───────────────────────────────────────────────────┐
      │                   COMISSÕES DE TRABALHO                    │
-     ├───────────────────────────────────────────────────┤
-     │  Administração e Finanças - R$ 10.000,00           │
-     │  Recursos Humanos e Formação - R$ 8.500,00         │
-     │  Marketing Digital - R$ 9.000,00                   │
-     │  Fiscalização e Controle - R$ 11.000,00           │
-     │  Assessoria Jurídica - R$ 12.500,00               │
-     │  Relações Governamentais - R$ 10.500,00           │
-     │  Parcerias e Internacionalização - R$ 10.000,00   │
-     │  Engenharia Social - R$ 12.000,00                 │
-     └───────────────────────────────────────────────────┘
+                 ├───────────────────────────────────────────────────┤
+                 │  Administração e Finanças - R$ 10.000,00           │
+                 │  Recursos Humanos e Formação - R$ 8.500,00         │
+                 │  Marketing Digital - R$ 9.000,00                   │
+                 │  Fiscalização e Controle - R$ 11.000,00           │
+                 │  Assessoria Jurídica - R$ 12.500,00               │
+                 │  Relações Governamentais - R$ 10.500,00           │
+                 │  Parcerias e Internacionalização - R$ 10.000,00   │
+                 │  Engenharia Social - R$ 12.000,00                 │
+                 └───────────────────────────────────────────────────┘
     
 
 ---
