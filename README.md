@@ -1,5 +1,7 @@
 # pporua
 
+### o caos padêmico, climático, energético e político demandam o 
+
 # Partido Pop Rua
 
 Missão, Visão, Valores e Propósito – Partido Pop Rua (PPRUA)
